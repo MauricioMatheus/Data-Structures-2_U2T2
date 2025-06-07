@@ -20,13 +20,39 @@ Primeiramente criamos um grafo da cidade de Natal/RN, assim obtendo as coordenad
 
 ![image](https://github.com/user-attachments/assets/bdb334e5-5881-41df-bddd-da5d8beff6a6)   
 
-## Melhor caminho encontrado (Dijkstra com Heap):   
+
+## Melhor caminho encontrado (Dijkstra com Heap):     
+
+• Rota Colaborador 1: 7 casas. Distância: 54.21 km  
+• Rota Colaborador 2: 12 casas. Distância: 54.68 km  
+• Rota Colaborador 3: 6 casas. Distância: 54.60 km  
+• Rota Colaborador 4: 8 casas. Distância: 54.72 km  
+• Rota Colaborador 5: 13 casas. Distância: 51.98 km  
+• Rota Colaborador 6: 3 casas. Distância: 34.27 km  
+• Rota Colaborador 7: 5 casas. Distância: 54.61 km  
+• Rota Colaborador 8: 7 casas. Distância: 35.64 km  
+• Rota Colaborador 9: 3 casas. Distância: 38.30 km  
+• Rota Colaborador 10: 1 casas. Distância: 35.54 km  
+
+**Distância total combinada para todos os colaboradores: 468.54 km**
 
 ![image](https://github.com/user-attachments/assets/4ae0f976-4f56-46fe-a176-b5c381070b68)
 
 
-## Melhor caminho encontrado (A*):   
+## Melhor caminho encontrado (A*):     
 
+• Rota Colaborador 1: 7 casas. Distância: 54.21 km  
+• Rota Colaborador 2: 12 casas. Distância: 54.68 km  
+• Rota Colaborador 3: 6 casas. Distância: 54.60 km  
+• Rota Colaborador 4: 8 casas. Distância: 54.72 km  
+• Rota Colaborador 5: 13 casas. Distância: 51.98 km  
+• Rota Colaborador 6: 3 casas. Distância: 34.27 km  
+• Rota Colaborador 7: 5 casas. Distância: 54.61 km  
+• Rota Colaborador 8: 7 casas. Distância: 35.64 km  
+• Rota Colaborador 9: 3 casas. Distância: 38.30 km  
+• Rota Colaborador 10: 1 casas. Distância: 35.54 km  
+
+**Distância total combinada para todos os colaboradores: 468.54 km**
 
 ![image](https://github.com/user-attachments/assets/8b68e41a-ad21-462b-870a-634d9408b539)  
 
