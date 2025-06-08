@@ -12,7 +12,7 @@ Nesta atividade foi avaliado o desempenho de 10 colaboradores ao saírem do pont
 
 • Dijkstra com heap; 
 
-• OSMNx.  
+• A*.  
 
 O código foi feito em Python com a utilização das seguintes bibliotecas: `OSMNx`, `Codecarbon`, `Matplotlib.pyplot`, `Networkx`, `Pandas`, `Ortools.constrait_solver`, `Geopy.distance` e `Numpy`.   
 
