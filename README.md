@@ -1,7 +1,9 @@
 # Avaliação de algorítmos para determinação de rotas mais curtas para pontos de coleta de ovitraps
 
 ## Autor:  
-### Maurício Matheus Araújo Silva Galvão - Engenharia de Computação (DCA/UFRN)  
+### Maurício Matheus Araújo Silva Galvão - Engenharia de Computação (DCA/UFRN)   
+
+Link do vídeo explicativo: https://drive.google.com/drive/u/0/folders/1grbua5v5ulgaxSdwFQZqX33Of9oLDP1y
 
 
 Nesta atividade foi avaliado o desempenho de 10 colaboradores ao saírem do ponto de origem, que é o Centro de Controle de Zoonoses, Natal, para 65 pontos de coletas de ovitraps em função ao combate à dengue. Foram utilizados 3 algorítmos para avaliação:  
