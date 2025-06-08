@@ -16,7 +16,7 @@ Nesta atividade foi avaliado o desempenho de 10 colaboradores ao saírem do pont
 
 O código foi feito em Python com a utilização das seguintes bibliotecas: `OSMNx`, `Codecarbon`, `Matplotlib.pyplot`, `Networkx`, `Pandas`, `Ortools.constrait_solver`, `Geopy.distance` e `Numpy`.   
 
-Primeiramente criamos um grafo da cidade de Natal/RN, assim obtendo as coordenadas do ponto de origem, que foi o Centro de Controle de Zoonoses e posteriormente dos 65 pontos de coleta referenciados como destinos, organizados em um arquivo .csv contendo suas devidas coordenadas. Com isso pudemos aplicar os três algorítmos separadamente analisando as suas pegadas de carbono com ajuda da biblioteca `Codecarbon`, o que nos deu uma visão bem detalhada dos custos energéticos e ambientais da execução de cada um deles. Após esse processo, conseguimos visualizar quais foram as rotas mais curtas encontradas para coleta dos colaboradores.
+Primeiramente foi criado um grafo da cidade de Natal/RN, assim foi possível obter as coordenadas do ponto de origem, que foi o Centro de Controle de Zoonoses e posteriormente dos 65 pontos de coleta referenciados como destinos, organizados em um arquivo .csv contendo suas devidas coordenadas. Com isso pôde-se aplicar os três algorítmos separadamente analisando as suas pegadas de carbono com ajuda da biblioteca `Codecarbon`, o que deu uma visão bem detalhada dos custos energéticos e ambientais da execução de cada um deles. Após esse processo, conseguimos visualizar quais foram as rotas mais curtas encontradas para coleta dos colaboradores.
 
 ## Pontos de coleta de ovitraps:    
 
